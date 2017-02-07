@@ -5,6 +5,8 @@ Change this file as you go along.  Use this file to tell the world of what assig
 
 Below is an example of what this file **could** look like.  Feel free to make it your own.
 
+This is just a basic template (including folder setup).  Not all of these might be accurate, but it is used as something like a starter point.
+
 ### Name of Assignment
 #### Folder name
 
